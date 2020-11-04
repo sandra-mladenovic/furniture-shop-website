@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.headerup{
+    padding: 1% 0%;
+}
+a, a:hover{
+    text-decoration: none;
+    color: #000;
+}
+.center, .blackLetters{
+    text-align: center;
+}
+.bold{
+    font-weight: 600;
+}
+.topPadd{
+    padding-top: 20%;
+}
+.padd{
+    padding-top: 3%;
+}
+.bgGray{
+    background-color: #dcdcdc;
+}
+.paddBottom{
+    padding: 3%;
+}
+ul li{
+    list-style-type: none;
+}
+#mainMeni li, #mainSocial li {
+    display: inline;
+}
+#mainMeni li a{
+    float: left;
+    padding: 1% 4%;
+    font-size: 20px;
+}
+.social{
+    font-size: 20px;
+}
+.right{
+    text-align: right;
+}
+#mainSocial li a i{
+    padding: 0px 7px;
+}
+
+#category{
+    border: 1px solid #dcdcdc;
+    border-radius: 0.25rem;
+    font-size: 18px;
+    padding: 1%;
+}
+
+#btnLogin[type=submit]{
+    padding: 1%;
+    margin: auto;
+}
+#signup, #login-link{
+    text-align: center;
+}
+#str li a{
+    text-decoration: none;
+    color: #afafaf;
+    font-size: 18px;
+}
+
+#str li {
+    list-style: none;
+    display: inline;
+    font-size: 14px;
+    padding: 4px;
+}
+
+#str li a:hover{
+    color:#7a7a7a;
+}
+#str{
+    margin: 0px auto;
+    padding: 2%;
+}
+.btnRemoveCart{
+    width: 100%;
+}
